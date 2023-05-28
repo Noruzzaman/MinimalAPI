@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qf4PUmrWdvIEZiVdjroK+PvIMqSaUzcO+H6zPDSIWFA=",
+  "Source": "MyCrossDomainCheckAPI",
+  "BasePath": "_content/MyCrossDomainCheckAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
